@@ -1,6 +1,7 @@
 
 /*Navigation*/
 #navbar ul li a{
+    padding: 3px 14px;
 }
 /* Home section */
 #home{
@@ -12,10 +13,12 @@
     /* overflow: hidden; */
   font-size: 1rem;
   padding: 0px;
+    width: 222px;
 }
 #home p{
      font-size: .5rem;
      text-align: none;
+    width: 89px;
 }
 /* Service section */
 #services{
