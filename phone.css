@@ -1,0 +1,33 @@
+
+/*Navigation*/
+#navbar ul li a{
+}
+/* Home section */
+#home{
+    /* overflow: hidden; */
+    display: flex;
+    flex-direction: column;
+}
+#home h1{
+    /* overflow: hidden; */
+  font-size: 1rem;
+  padding: 0px;
+}
+#home p{
+     font-size: .5rem;
+     text-align: none;
+}
+/* Service section */
+#services{
+    flex-direction: column;
+    
+}
+#services .box{
+    margin-bottom: 15px;
+    /* width: 90vw; */
+}
+/* Client Section */
+#client-section{
+    overflow: hidden;
+}
+/* Contact section */
